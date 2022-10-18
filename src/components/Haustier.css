@@ -1,0 +1,9 @@
+.haustier-container {
+  border: 1px solid beige;
+  margin: 0.5rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
